@@ -1,0 +1,16 @@
+$cor-fundo: #f4f4f4;
+$cor-principal: #3498db;
+$cor-texto: #333;
+
+body {
+  background-color: $cor-fundo;
+  font-family: Roboto;
+  margin: 0;
+  padding: 20px;
+  color: $cor-texto;
+}
+
+h1 {
+  color: $cor-principal;
+  margin-bottom: 20px;
+}
